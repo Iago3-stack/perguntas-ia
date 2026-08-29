@@ -16,3 +16,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [RAG](perguntas/2026-08-29-mlops-cv-rag.md) | "RAG não é só correspondência com outro nome?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
+
+## 💬 Tem uma dúvida?
+
+Abra um [issue](https://github.com/Iago3-stack/perguntas-ia/issues) com a sua pergunta de IA/QA — a resposta vira o próximo capítulo desta curadoria.
