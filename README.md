@@ -1,17 +1,18 @@
-# 📚 Estudos IA & QA — rastro honesto de aprendizado
+# 🧠 Dúvidas de IA & QA — curadoria resolvida
 
-Este repositório registra meu estudo prático diário de IA e QA Automation — notas, código, dúvidas e evolução.
+Coleção de perguntas técnicas de IA e QA Automation que resolvi e documentei. Cada entrada tem:
+- **Pergunta** — formulada como todo dev se faz (inclusive a "esa pergunta é só enfeite?")
+- **Resposta direta** — conceito, de forma enxuta
+- **Por que interessa** — contexto e onde a coisa aparece em produção
 
-**Como estudo:** aprendo com IA (é o método moderno), com mano-na-massa: escrevo, erro, corrijo e publico. Cada dia gera um arquivo em [`notas/`](notas/).
+Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** e **exemplo prático** (com código real quando couber).
 
-**Objetivo:** transição para IA & ML (UNIASSELVI · Dez/2027) com foco em QA Automation — e manter aqui o rastro da constância.
+## Índice
 
-🟩 **Meta:** pelo menos 1 nota/commit por dia.
-
----
-
-## 📅 Notas
-
-| Data | Tema |
+| Tema | Pergunta central |
 |---|---|
-| 2026-08-29 | MLOps, Computer Vision e RAG — conceitos + dúvida crítica |
+| [MLOps](perguntas/2026-08-29-mlops-cv-rag.md) | "MLOps não é só DevOps rebatizado?" |
+| [Computer Vision](perguntas/2026-08-29-mlops-cv-rag.md) | "CV não é só label novo pra treinar imagem?" |
+| [RAG](perguntas/2026-08-29-mlops-cv-rag.md) | "RAG não é só correspondência com outro nome?" |
+
+> Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
