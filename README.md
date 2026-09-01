@@ -15,6 +15,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [Computer Vision](perguntas/2026-08-29-mlops-cv-rag.md) | "CV não é só label novo pra treinar imagem?" |
 | [RAG](perguntas/2026-08-29-mlops-cv-rag.md) | "RAG não é só correspondência com outro nome?" |
 | [Agentes & MCP](perguntas/2026-08-30-agentes-mcp.md) | "MCP não é só uma API com nome novo?" |
+| [Embeddings & Banco Vetorial](perguntas/2026-08-31-embeddings-vectordb.md) | "Embeddings não é só 'palavras viradas número'?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
