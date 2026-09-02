@@ -20,4 +20,4 @@
 
 **Por que interessa:** essa é uma decisão de arquitetura clássica — "basta o que eu já tenho ou preciso de infra nova?" — que aparece em entrevista e desenhos de sistema. Saber responder mostra que não está só montando RAG de tutorial.
 
-**Analogia do meu dia a dia (Auxiliar Administrativo):** indices no arquivo físico funcionam bem pra poucos processos; quando a pilha cresce muito, a gente separa um arquivo专门 pra consulta rápida (mais organizado, indexado de outro jeito). É a mesma lógica.
+**Analogia do meu dia a dia (Auxiliar Administrativo):** índices no arquivo físico funcionam bem pra poucos processos; quando a pilha cresce muito, a gente separa um arquivo só pra consulta rápida (mais organizado, indexado de outro jeito). É a mesma lógica.

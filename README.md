@@ -16,6 +16,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [RAG](perguntas/2026-08-29-mlops-cv-rag.md) | "RAG não é só correspondência com outro nome?" |
 | [Agentes & MCP](perguntas/2026-08-30-agentes-mcp.md) | "MCP não é só uma API com nome novo?" |
 | [Embeddings & Banco Vetorial](perguntas/2026-08-31-embeddings-vectordb.md) | "Embeddings não é só 'palavras viradas número'?" |
+| [Fine-tuning & JSON Estruturado](perguntas/2026-08-31-fine-tuning-json-estruturado.md) | "Fine-tuning não é só treinar com meus dados?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
