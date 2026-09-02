@@ -1,5 +1,11 @@
 # 🧠 Dúvidas de IA & QA — curadoria resolvida
 
+> *(O lab onde a minha confusão vira conteúdo — e a sua dúvida vira o próximo capítulo.)*
+
+IA mudou de geração: hoje não se pergunta *"o que é"*, mas *"isso não é só coisa que já existia com outro nome?"* — MLOps, RAG, agentes, embeddings, fine-tuning... Cada "sigla nova" parece enfeite até a hora que você precisa decidir de verdade.
+
+Este repositório é o meu **caderno público de resolver essas dúvidas sem decoreba**: eu registro a pergunta do jeito que todo dev se faz, dou a resposta direta e mostro **onde aquilo aparece em produção** — e quando cabe, coloco um exemplo do que eu mesmo construo.
+
 Coleção de perguntas técnicas de IA e QA Automation que resolvi e documentei. Cada entrada tem:
 - **Pergunta** — formulada como todo dev se faz (inclusive a "esa pergunta é só enfeite?")
 - **Resposta direta** — conceito, de forma enxuta
