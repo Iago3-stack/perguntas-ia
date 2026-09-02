@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=80&section=header&text=Perguntas%20de%20IA%20%26%20QA&fontSize=22&fontColor=fff&fontAlignY=50" width="100%" />
 </div>
 
-> *English readers: this document is in PT-BR, but your browser can translate it automatically (right-click → "Translate").*
+> 🌐 *English readers: this document is in PT-BR, but your browser can translate it automatically (right-click → "Translate").*
 
 > 🧠 *(O lab onde a minha confusão vira conteúdo — e a sua dúvida vira o próximo capítulo.)*
 
