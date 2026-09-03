@@ -39,8 +39,8 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/5%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/12%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/14%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
 </div>
 
 | Tema | Pergunta central |
@@ -52,6 +52,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [Embeddings & Banco Vetorial](perguntas/2026-08-31-embeddings-vectordb.md) | "Embeddings não é só 'palavras viradas número'?" |
 | [Fine-tuning & JSON Estruturado](perguntas/2026-08-31-fine-tuning-json-estruturado.md) | "Fine-tuning não é só treinar com meus dados?" |
 | [Agentes & MCP (cont.)](perguntas/2026-09-02-agentes-mcp-ferramentas.md) | "Como um agente 'clica' em outros sites?" |
+| [IA Agêntica × LLM](perguntas/2026-09-02-ia-agentica-llm.md) | "IA agêntica não é só o LLM que usa ferramentas?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
