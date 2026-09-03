@@ -1,4 +1,4 @@
-# IA Agêntica × LLM — 2 dúvidas resolvidas (com exemplo do "Zeca" de navegador)
+# Agentes de IA × LLM — 2 dúvidas resolvidas (com exemplo do "Zeca" de navegador)
 
 ## 1. LLM — "agora todo mundo chama de IA. LLM não é só IA com nome bonito?"
 
@@ -12,15 +12,15 @@
 
 ---
 
-## 2. IA Agêntica — "não é só o LLM que usa ferramentas?"
+## 2. Agentes de IA — "não é só o LLM que usa ferramentas?"
 
-**Pergunta:** *"Vi uma IA que acessava o WhatsApp Web, entrava no YouTube, pesquisava e tocava o vídeo. Isso não é só o mesmo LLM com um pouco mais de código? Por que chamam de 'IA agêntica'?"*
+**Pergunta:** *"Vi uma IA que acessava o WhatsApp Web, entrava no YouTube, pesquisava e tocava o vídeo. Isso não é só o mesmo LLM com um pouco mais de código? Por que chamam de 'agentes de IA'?"*
 
 **Resposta:** Porque "agente" não é "LLM com ferramenta" — é **LLM + um loop onde ele age e reage**. A fórmula que todo framework usa (ReAct, OODA e afins):
 
 > **Agente = LLM (cérebro) + objetivo + ferramentas (mãos) + memória + LOOP**
 
-O loop é o que define um agente: **perceber → planejar → agir (chamar ferramenta) → observar o resultado → decidir se termina ou repete**. O LLM decide o próximo passo, mas quem **mexe no navegador/clica/pesquisa/apertar play** é a **ferramenta** (automação de interface). A "IA Agêntica" é esse paradigma em que o modelo deixa de *responder* e passa a *executar tarefas de múltiplos passos por conta própria*. Removendo o loop e as ferramentas, volta a ser um chatbot de resposta única.
+O loop é o que define um agente: **perceber → planejar → agir (chamar ferramenta) → observar o resultado → decidir se termina ou repete**. O LLM decide o próximo passo, mas quem **mexe no navegador/clica/pesquisa/apertar play** é a **ferramenta** (automação de interface). É esse o paradigma dos **agentes de IA**: o modelo deixa de *responder* e passa a *executar tarefas de múltiplos passos por conta própria*. Removendo o loop e as ferramentas, volta a ser um chatbot de resposta única.
 
 **Por que interessa:** é a pergunta que separa **generative AI** (gera uma saída) de **agentic AI** (age até concluir). Saber que "agente = LLM + objetivo + ferramentas + loop" responde o "como a IA controla o computador?" sem cair na ideia mágica — e mostra maturidade pra falar de arquitetura de verdade.
 

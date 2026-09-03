@@ -52,7 +52,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [Embeddings & Banco Vetorial](perguntas/2026-08-31-embeddings-vectordb.md) | "Embeddings não é só 'palavras viradas número'?" |
 | [Fine-tuning & JSON Estruturado](perguntas/2026-08-31-fine-tuning-json-estruturado.md) | "Fine-tuning não é só treinar com meus dados?" |
 | [Agentes & MCP (cont.)](perguntas/2026-09-02-agentes-mcp-ferramentas.md) | "Como um agente 'clica' em outros sites?" |
-| [IA Agêntica × LLM](perguntas/2026-09-02-ia-agentica-llm.md) | "IA agêntica não é só o LLM que usa ferramentas?" |
+| [Agentes de IA × LLM](perguntas/2026-09-02-agentes-ia-llm.md) | "Agentes de IA não é só o LLM que usa ferramentas?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
