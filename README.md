@@ -14,7 +14,6 @@ Este repositório é o meu **caderno público de resolver essas dúvidas sem dec
   <a href="https://github.com/Iago3-stack/perguntas-ia/stargazers">
     <img src="https://img.shields.io/github/stars/Iago3-stack/perguntas-ia?style=for-the-badge&color=2E7CF6&logo=github&logoColor=white&label=Estrelas" />
   </a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/Licen%C3%A7a-Apache2.0-4CAF50?style=for-the-badge&logo=apache&logoColor=white" /></a>
   <img src="https://img.shields.io/github/last-commit/Iago3-stack/perguntas-ia?style=for-the-badge&label=%C3%9Altima%20atividade" />
   <img src="https://img.shields.io/badge/PT--BR-2E7CF6?style=for-the-badge" />
 </div>
