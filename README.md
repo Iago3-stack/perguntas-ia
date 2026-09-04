@@ -42,8 +42,8 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/8%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/18%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/11%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/24%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
 </div>
 
 | Tema | Pergunta central |
@@ -58,6 +58,9 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [Agentes de IA × LLM](perguntas/2026-09-02-agentes-ia-llm.md) | "Agentes de IA não é só o LLM que usa ferramentas?" |
 | [Evals & Avaliação de LLM](perguntas/2026-09-04-evals-llm-qa.md) | "Evals não é só rodar o teste e ver se passou?" |
 | [Function Calling & Tools](perguntas/2026-09-04-function-calling-tools.md) | "Function calling não é só o LLM devolvendo um JSON?" |
+| [Guardrails & Segurança de LLM](perguntas/2026-09-04-guardrails-seguranca-llm.md) | "Guardrails não é só filtrar palavras proibidas?" |
+| [LLMOps & Observabilidade](perguntas/2026-09-04-llmops-observabilidade.md) | "Observabilidade de LLM não é só log com nome novo?" |
+| [SLM vs LLM](perguntas/2026-09-04-slm-vs-llm.md) | "SLM não é só um LLM versão econômica?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
@@ -77,6 +80,9 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
   <img src="https://img.shields.io/badge/QA%20Automation-25D366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Evals%20%26%20Avalia%C3%A7%C3%A3o%20de%20LLM-673AB7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Function%20Calling%20%26%20Tools-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Guardrails%20%26%20Seguran%C3%A7a-E91E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMOps%20%26%20Observabilidade-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLM%20vs%20LLM-8BC34A?style=for-the-badge" />
 </div>
 
 ---

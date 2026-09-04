@@ -14,6 +14,9 @@ O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 ### Adicionado
 - Capítulo **Evals & Avaliação de LLM** (*"Evals não é só rodar o teste e ver se passou?"* e *"Como eu sei que meu LLM não está só me enganando?"*).
 - Capítulo **Function Calling & Tools** (*"Function calling não é só o LLM devolvendo um JSON?"* e *"Se o LLM escolhe a ferramenta, quem manda?"*).
+- Capítulo **Guardrails & Segurança de LLM** (*"Guardrails não é só filtrar palavras proibidas?"* e *"Como eu impeço o agente de fazer besteira?"*).
+- Capítulo **LLMOps & Observabilidade** (*"Observabilidade de LLM não é só log com nome novo?"* e *"Como monitoro melhoria, e não só erro?"*).
+- Capítulo **SLM vs LLM** (*"SLM não é só um LLM versão econômica?"* e *"Como sei quando o modelo pequeno basta?"*).
 
 ## [2026-09-02]
 
