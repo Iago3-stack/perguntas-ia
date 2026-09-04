@@ -42,8 +42,8 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/7%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/16%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/18%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
 </div>
 
 | Tema | Pergunta central |
@@ -57,6 +57,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 | [Agentes & MCP (cont.)](perguntas/2026-09-02-agentes-mcp-ferramentas.md) | "Como um agente 'clica' em outros sites?" |
 | [Agentes de IA × LLM](perguntas/2026-09-02-agentes-ia-llm.md) | "Agentes de IA não é só o LLM que usa ferramentas?" |
 | [Evals & Avaliação de LLM](perguntas/2026-09-04-evals-llm-qa.md) | "Evals não é só rodar o teste e ver se passou?" |
+| [Function Calling & Tools](perguntas/2026-09-04-function-calling-tools.md) | "Function calling não é só o LLM devolvendo um JSON?" |
 
 > Cada pergunta entra aqui conforme é estudada e **resolvida** — o valor está em registrar a pergunta certa, não a definição pronta.
 
@@ -75,6 +76,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
   <img src="https://img.shields.io/badge/Fine-tuning-00ACC1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/QA%20Automation-25D366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Evals%20%26%20Avalia%C3%A7%C3%A3o%20de%20LLM-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Function%20Calling%20%26%20Tools-795548?style=for-the-badge" />
 </div>
 
 ---

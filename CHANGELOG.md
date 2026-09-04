@@ -13,6 +13,7 @@ O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 
 ### Adicionado
 - Capítulo **Evals & Avaliação de LLM** (*"Evals não é só rodar o teste e ver se passou?"* e *"Como eu sei que meu LLM não está só me enganando?"*).
+- Capítulo **Function Calling & Tools** (*"Function calling não é só o LLM devolvendo um JSON?"* e *"Se o LLM escolhe a ferramenta, quem manda?"*).
 
 ## [2026-09-02]
 
