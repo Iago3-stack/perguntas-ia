@@ -9,6 +9,11 @@ O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 ### Adicionado
 - **GUIAS DE COMUNIDADE** — `LICENSE` (Apache-2.0), `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` e `SECURITY.md`.
 
+## [2026-09-04]
+
+### Adicionado
+- Capítulo **Evals & Avaliação de LLM** (*"Evals não é só rodar o teste e ver se passou?"* e *"Como eu sei que meu LLM não está só me enganando?"*).
+
 ## [2026-09-02]
 
 ### Adicionado
