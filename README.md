@@ -42,7 +42,7 @@ Nada de verbete decorado: por trás de cada resposta há **dúvida de verdade** 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/8%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6%20cap%C3%ADtulos-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/14%20d%C3%BAvidas%20resolvidas-2E7CF6?style=for-the-badge" />
 </div>
 
